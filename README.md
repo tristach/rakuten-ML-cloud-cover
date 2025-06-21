@@ -1,2 +1,2 @@
-# rakuten-ML-cloud-cover
+# Rakuten-ML-Cloud-Cover
 An automated threat detection tool which combines advanced KQL queries and Sentinel logic into a machine-readable JIT detection/warning system
