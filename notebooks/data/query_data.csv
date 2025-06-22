@@ -1,0 +1,12 @@
+﻿AttackerIP,EventID,Activity,DestinationHostName,FailureCount
+"103.147.33.53",4625,"4625 - An account failed to log on.","windows-vm",317
+"133.18.164.37",4625,"4625 - An account failed to log on.","windows-vm",25
+"134.119.180.102",4625,"4625 - An account failed to log on.","windows-vm",134
+"118.69.37.51",4625,"4625 - An account failed to log on.","windows-vm",103
+"20.5.50.76",4625,"4625 - An account failed to log on.","windows-vm",64
+"2.57.122.126",4625,"4625 - An account failed to log on.","windows-vm",10
+"137.97.249.22",4625,"4625 - An account failed to log on.","windows-vm",49
+"103.199.211.245",4625,"4625 - An account failed to log on.","windows-vm",514
+"81.214.22.37",4625,"4625 - An account failed to log on.","windows-vm",296
+"106.51.126.158",4625,"4625 - An account failed to log on.","windows-vm",72
+"161.97.184.179",4625,"4625 - An account failed to log on.","windows-vm",72
